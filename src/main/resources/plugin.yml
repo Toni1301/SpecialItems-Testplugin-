@@ -1,0 +1,8 @@
+name: Specialitems
+version: '${project.version}'
+main: de.wolkenrat.neinnichtdoch.specialitems.Specialitems
+api-version: '1.21'
+commands:
+  givespecialitems:
+    description: Gibt dir spezielle Items mit einzigartigen Effekten.
+    usage: /givespecialitems
